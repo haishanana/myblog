@@ -6,4 +6,18 @@ h1{
      color: rgb(28, 36, 33);
      font-size: 50px;
      text-align: center;
+     padding-left: 300px;
+     padding-left: 150px;
+}
+p{
+    color: rgb(85, 62, 87);
+    font-size: 40px;
+}
+img{
+    height: 200px;
+    height: 200px;
+}
+p{
+    color: rgb(144, 30, 155);
+    font-size: 40px;
 }
